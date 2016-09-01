@@ -1,6 +1,7 @@
 """ Rainfall unit conversion library """
 
 def inches_to_mm(inches):
+	cent = 
     
     """"inches to mm
     
@@ -10,4 +11,6 @@ def inches_to_mm(inches):
 	
     mm = inches * 25.4
     return mm
+
+#TODO(Developer B): to write a function for conversion
     
